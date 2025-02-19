@@ -1,0 +1,13 @@
+names:
+  - Paper
+  - Plastic
+  - Glass
+  - Metal
+  - Organic
+  - Electronics
+  - Miscellaneous
+nc: 7
+
+train: /Users/siddharthv/Downloads/datasets/train/images
+val: /Users/siddharthv/Downloads/datasets/valid/images
+test: /Users/siddharthv/Downloads/datasets/test/images
